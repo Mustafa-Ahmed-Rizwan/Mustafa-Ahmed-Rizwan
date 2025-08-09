@@ -1,5 +1,5 @@
 # 💫 About Me:
-📚 I'm currently exploring<br>Innovative projects in full-stack web development and generative AI.<br><br>🤝 I'm open to collaborating on<br>Cutting-edge app development and AI-driven solutions.<br><br>💡 Ask me about<br>My experience with scalable web applications or AI tools.<br><br>🌱 I'm eager to learn<br>Advanced machine learning techniques and cloud technologies.
+📚 I'm currently building and exploring<br>Innovative projects in full-stack web development and generative AI.<br><br>🤝 I'm open to collaborating on<br>Cutting-edge app development and AI-driven solutions.<br><br>💡 Ask me about<br>My experience with scalable web applications or AI tools.<br><br>🌱 I'm eager to learn<br>Advanced machine learning techniques and cloud technologies.
 
 
 ## 🌐 Socials:
